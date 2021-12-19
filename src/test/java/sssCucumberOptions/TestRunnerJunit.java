@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="src/test/java/features/",glue="stepDefinations",stepNotifications = true,tags="@skip")
+@CucumberOptions(features="src/test/java/features/UIFeatures.feature",glue="stepDefinations",stepNotifications = true,tags="@unittest")
 public class TestRunnerJunit {
 
 }
