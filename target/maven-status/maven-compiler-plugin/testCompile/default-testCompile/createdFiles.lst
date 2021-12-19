@@ -1,8 +1,8 @@
-sssCucumberOptions\TestRunnerJunit.class
 pkg\uiautomation\BaseTest.class
+sssbdd\sssproject\AppTest.class
+sssCucumberOptions\TestRunnerJunit.class
 stepDefinations\UIStepDefination.class
 sssCucumberOptions\SSSTestRun.class
 stepDefinations\RegistrationSteps.class
-sssbdd\sssproject\AppTest.class
 sssCucumberOptions\TestRunnerUIJunit.class
 stepDefinations\SeleniumStepDefinations.class
